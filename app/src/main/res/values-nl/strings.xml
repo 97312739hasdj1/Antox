@@ -20,7 +20,7 @@
     <string name="main_friend_requests">Vriendschapsverzoeken</string>
     <string name="main_friends">Vrienden</string>
     <string name="main_no_internet">Geen internetverbinding</string>
-    <string name="main_not_connected">Geen internetverbinding gevonden. Zonder een internetverbinding, zal je beperkte functionaliteit hebben.</string>
+    <string name="main_not_connected">Geen internetverbinding gevonden. Zonder een internetverbinding, zal je een beperkte functionaliteit hebben.</string>
     <string name="main_node_list_download_error">Kan nodelijst niet verkrijgen</string>
 
     <!--  Chat Activity -->
@@ -40,7 +40,7 @@
     <string name="addfriend_invalid_pin">Ongeldige Pin</string>
     <string name="addfriend_no_internet">Geen Tox-netwerkverbinding</string>
     <string name="addfriend_no_internet_text">
-        Je bent niet verbonden met het Tox-netwerk, dus kunt je geen vrienden toevoegen op dit moment.
+        Op dit moment ben je niet verbonden met het Tox-netwerk, dus kan je geen vrienden toevoegen.
         Probeer de applicatie opnieuw te starten.
     </string>
 
@@ -68,14 +68,14 @@
     <string name="friend_action_block">Blokkeer</string>
     <string name="friend_action_unblock">Deblokkeren</string>
     <string name="group_action_leave">Verlaat groep</string>
-    <string name="friend_action_deletechat">Chatlogs verwijderen</string>
+    <string name="friend_action_deletechat">Alle chatberichten verwijderen</string>
     <string name="friend_action_block_confirmation">
-        Als je deze gebruiker blokkeert, worden ze verwijderd van je vriendenlijst en je zal geen vriendschapsverzoek meer van hen kunnen zien.
+        Als je deze gebruiker blokkeert, wordt hij/zij verwijderd van je vriendenlijst en zal je geen vriendschapsverzoek meer van hij/zij kunnen zien.
         Weet je zeker dat je wilt doorgaan?
     </string>
 
     <string name="contacts_actions_on">Acties aan</string>
-    <string name="contacts_clear_saved_logs">Moeten de opgeslagen chatlogs meeverwijderd worden?</string>
+    <string name="contacts_clear_saved_logs">Moeten de opgeslagen chatberichten mee verwijderd worden?</string>
 
     <!--  Misc -->
     <string name="button_confirm">Bevestig</string>
